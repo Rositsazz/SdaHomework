@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.LinkedList;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
-
+// Rositsa Zlateva
 public class FileEncoder61677 implements FileEncoder {
 	
 	 
