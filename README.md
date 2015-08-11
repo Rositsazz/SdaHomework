@@ -1,4 +1,4 @@
-Homework for Data Structures and Algorithms in FMI
+## Homework for Data Structures and Algorithms in FMI
 ============
-##FileEncoder 
+FileEncoder 
 
