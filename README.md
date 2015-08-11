@@ -1,5 +1,4 @@
-myRepository
+Homework for Data Structures and Algorithms in FMI
 ============
 ##FileEncoder 
-| homework1  | homework2 |
-|---------|-------- |
+
